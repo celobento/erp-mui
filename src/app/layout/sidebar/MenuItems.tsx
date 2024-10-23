@@ -24,13 +24,13 @@ const Menuitems = [
   },
   {
     navlabel: true,
-    subheader: "Utilities",
+    subheader: "Cadastros",
   },
   {
     id: uniqueId(),
-    title: "Typography",
+    title: "Grupos",
     icon: IconTypography,
-    href: "/utilities/typography",
+    href: "/modulo/usuario/grupo",
   },
   {
     id: uniqueId(),
